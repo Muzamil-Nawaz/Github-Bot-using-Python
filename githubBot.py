@@ -164,7 +164,7 @@ def main(uploading_folder_path,github_username,github_password):
 if __name__ == '__main__':
 
     # Directory path where your projects are, which you want to upload on Github 
-    uploading_folder_path = 'D:\\Code Programmin\\python\\Scraping\\tttt'
-    github_username = 'awana4872@gmail.com'
-    github_password = '@bleomessi'
+    uploading_folder_path = 'your_uploading_folder_path'
+    github_username = 'your_username'
+    github_password = 'your_password'
     main(uploading_folder_path,github_username, github_password)
